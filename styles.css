@@ -1,4 +1,14 @@
 table{
+	border:1px solid black;
+	width:100%;
 	table-layout:fixed;
+	text-align:center;
 }
-/* Your CSS Code here. */
+th,td{
+	border:2px solid black;
+	text-align:center;
+}
+.t4{
+	color:white;
+	background-color:black;
+}
